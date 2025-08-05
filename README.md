@@ -1,6 +1,4 @@
 # David-Astudillo
-Taller
-# David-Astudillo
 
 Repositorio creado como parte del Taller de la Unidad 2 - Introducción a la Ingeniería.
 
