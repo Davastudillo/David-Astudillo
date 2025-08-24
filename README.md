@@ -25,7 +25,7 @@ python calculadora_promedio.py
 ```
 
 ####  Video Explicativo
-*[Enlace al video explicativo - Pendiente de subir]*
+[Video](https://www.youtube.com/watch?v=NzKjo3yNeE8)
 
 ##  Tablero de Trello
 
